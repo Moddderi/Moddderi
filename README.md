@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Oleh Kyrychenko
 
-Young and ambitious Frontend / Full-Stack Developer ⚡️
+Young and ambitious Full-Stack Developer ⚡️
 
 ---
 
